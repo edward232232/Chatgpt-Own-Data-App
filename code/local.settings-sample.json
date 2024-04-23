@@ -1,0 +1,9 @@
+{
+    "AZURE_SEARCH_SERVICE_ENDPOINT": "https://searchbasic122.search.windows.net",
+    "AZURE_SEARCH_INDEX_NAME": "azureblob-index",
+    "AZURE_SEARCH_ADMIN_KEY": "",
+    "AZURE_OPENAI_ENDPOINT": "https://openaiek232.openai.azure.com/",
+    "AZURE_OPENAI_API_KEY": "",
+    "AZURE_OPENAI_API_VERSION": "2023-05-15",
+    "AZURE_OPENAI_EMBEDDING_DEPLOYED_MODEL": "text-embedding-ada-002"
+  }
