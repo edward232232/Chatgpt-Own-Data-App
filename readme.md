@@ -29,17 +29,13 @@ Open the `local.settings.json` file and replace the placeholders with yours
 Here's an example of what the file might look like:
 
 ```json
-{
-    "IsEncrypted": false,
-    "Values": {
-        "AzureWebJobsStorage": "",
-        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-        "OpenAI_APIKey": "<Your OpenAI API Key>",
-        "AzureSearch_ServiceName": "<Your Azure Search Service Name>",
-        "AzureSearch_IndexName": "<Your Azure Search Index Name>",
-        "AzureSearch_APIKey": "<Your Azure Search API Key>"
-    }
-}
+    "AZURE_SEARCH_SERVICE_ENDPOINT": "",
+    "AZURE_SEARCH_INDEX_NAME": "",
+    "AZURE_SEARCH_ADMIN_KEY": "",
+    "AZURE_OPENAI_ENDPOINT": "",
+    "AZURE_OPENAI_API_KEY": "",
+    "AZURE_OPENAI_API_VERSION": "2023-05-15",
+    "AZURE_OPENAI_EMBEDDING_DEPLOYED_MODEL": "text-embedding-ada-002"
 ```
 
 ### Installation
