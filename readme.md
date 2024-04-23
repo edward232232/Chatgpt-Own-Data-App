@@ -51,3 +51,4 @@ dotnet run
 ### Sample
 
 This console application demonstrates the integration of the OpenAI Chat GPT model using the `GetChatCompletionsAsync` method. It provides a unique feature of utilizing the Chat GPT model on user-specific data, enabling more personalized and context-aware responses.
+<img width="1339" alt="chat" src="https://github.com/edward232232/Chatgpt-Own-Data-App/assets/62457821/cda07e3f-7743-4177-bf87-db2ffca61ba9">
